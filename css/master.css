@@ -5,3 +5,10 @@
 .bg-custom{
   background-color: #cbafe3;
 }
+.flower{
+  height: 50px;
+}
+.card-text{
+  font-family: 'Dosis', sans-serif;
+  font-size: 18px;
+}
